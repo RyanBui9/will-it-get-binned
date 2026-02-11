@@ -12,6 +12,7 @@ node_modules
 dist
 dist-ssr
 *.local
+aeroapi-openapi.yml
 
 # Editor directories and files
 .vscode/*
